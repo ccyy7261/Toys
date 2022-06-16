@@ -10,7 +10,7 @@ namespace Toys
     {
         static void Main(string[] args)
         {
-            //设置数据保存路径
+            //设置数据保存路径123
             Path_File.CreatPath();
             //初始化功能列表
             Function_Group.Init();
